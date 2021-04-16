@@ -92,7 +92,7 @@ class ListaTransferencias extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    _transferencias.add(Transferencia(100, 1111));
+    _transferencias.add(Transferencia(100, 111));
 
     return Scaffold(
       appBar: AppBar(
